@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tymen-WebSite-ORG/static/css/main.55df7064.css",
-    "main.js": "/Tymen-WebSite-ORG/static/js/main.b0981b2d.js",
-    "index.html": "/Tymen-WebSite-ORG/index.html",
-    "main.55df7064.css.map": "/Tymen-WebSite-ORG/static/css/main.55df7064.css.map",
-    "main.b0981b2d.js.map": "/Tymen-WebSite-ORG/static/js/main.b0981b2d.js.map"
+    "main.css": "/Tyumen-is-not-a-village/static/css/main.55df7064.css",
+    "main.js": "/Tyumen-is-not-a-village/static/js/main.b0981b2d.js",
+    "index.html": "/Tyumen-is-not-a-village/index.html",
+    "main.55df7064.css.map": "/Tyumen-is-not-a-village/static/css/main.55df7064.css.map",
+    "main.b0981b2d.js.map": "/Tyumen-is-not-a-village/static/js/main.b0981b2d.js.map"
   },
   "entrypoints": [
     "static/css/main.55df7064.css",
