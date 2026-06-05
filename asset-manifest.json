@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Tyumen-is-not-a-village/static/css/main.4bb2cc77.css",
-    "main.js": "/Tyumen-is-not-a-village/static/js/main.de410efd.js",
+    "main.css": "/Tyumen-is-not-a-village/static/css/main.708c5d4e.css",
+    "main.js": "/Tyumen-is-not-a-village/static/js/main.5620e681.js",
     "index.html": "/Tyumen-is-not-a-village/index.html",
-    "main.4bb2cc77.css.map": "/Tyumen-is-not-a-village/static/css/main.4bb2cc77.css.map",
-    "main.de410efd.js.map": "/Tyumen-is-not-a-village/static/js/main.de410efd.js.map"
+    "main.708c5d4e.css.map": "/Tyumen-is-not-a-village/static/css/main.708c5d4e.css.map",
+    "main.5620e681.js.map": "/Tyumen-is-not-a-village/static/js/main.5620e681.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bb2cc77.css",
-    "static/js/main.de410efd.js"
+    "static/css/main.708c5d4e.css",
+    "static/js/main.5620e681.js"
   ]
 }
