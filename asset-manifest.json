@@ -1,13 +1,47 @@
 {
   "files": {
-    "main.css": "/Tyumen-is-not-a-village/static/css/main.e01bc6ab.css",
-    "main.js": "/Tyumen-is-not-a-village/static/js/main.2282916d.js",
+    "main.css": "/Tyumen-is-not-a-village/static/css/main.4d37e3be.css",
+    "main.js": "/Tyumen-is-not-a-village/static/js/main.26906190.js",
+    "static/css/429.5be6aaae.chunk.css": "/Tyumen-is-not-a-village/static/css/429.5be6aaae.chunk.css",
+    "static/js/429.43ba514f.chunk.js": "/Tyumen-is-not-a-village/static/js/429.43ba514f.chunk.js",
+    "static/css/450.739eedfb.chunk.css": "/Tyumen-is-not-a-village/static/css/450.739eedfb.chunk.css",
+    "static/js/450.f475273e.chunk.js": "/Tyumen-is-not-a-village/static/js/450.f475273e.chunk.js",
+    "static/css/487.76ebe7d8.chunk.css": "/Tyumen-is-not-a-village/static/css/487.76ebe7d8.chunk.css",
+    "static/js/487.72d16155.chunk.js": "/Tyumen-is-not-a-village/static/js/487.72d16155.chunk.js",
+    "static/css/897.8cef603b.chunk.css": "/Tyumen-is-not-a-village/static/css/897.8cef603b.chunk.css",
+    "static/js/897.54821f89.chunk.js": "/Tyumen-is-not-a-village/static/js/897.54821f89.chunk.js",
+    "static/css/370.34302630.chunk.css": "/Tyumen-is-not-a-village/static/css/370.34302630.chunk.css",
+    "static/js/370.f89cc8ec.chunk.js": "/Tyumen-is-not-a-village/static/js/370.f89cc8ec.chunk.js",
+    "static/css/594.3681de78.chunk.css": "/Tyumen-is-not-a-village/static/css/594.3681de78.chunk.css",
+    "static/js/594.ef343fcd.chunk.js": "/Tyumen-is-not-a-village/static/js/594.ef343fcd.chunk.js",
+    "static/css/749.533ff2dd.chunk.css": "/Tyumen-is-not-a-village/static/css/749.533ff2dd.chunk.css",
+    "static/js/749.51b0d6c9.chunk.js": "/Tyumen-is-not-a-village/static/js/749.51b0d6c9.chunk.js",
+    "static/css/335.7fe9d3d4.chunk.css": "/Tyumen-is-not-a-village/static/css/335.7fe9d3d4.chunk.css",
+    "static/js/335.756142d8.chunk.js": "/Tyumen-is-not-a-village/static/js/335.756142d8.chunk.js",
+    "static/js/634.fe118581.chunk.js": "/Tyumen-is-not-a-village/static/js/634.fe118581.chunk.js",
     "index.html": "/Tyumen-is-not-a-village/index.html",
-    "main.e01bc6ab.css.map": "/Tyumen-is-not-a-village/static/css/main.e01bc6ab.css.map",
-    "main.2282916d.js.map": "/Tyumen-is-not-a-village/static/js/main.2282916d.js.map"
+    "main.4d37e3be.css.map": "/Tyumen-is-not-a-village/static/css/main.4d37e3be.css.map",
+    "main.26906190.js.map": "/Tyumen-is-not-a-village/static/js/main.26906190.js.map",
+    "429.5be6aaae.chunk.css.map": "/Tyumen-is-not-a-village/static/css/429.5be6aaae.chunk.css.map",
+    "429.43ba514f.chunk.js.map": "/Tyumen-is-not-a-village/static/js/429.43ba514f.chunk.js.map",
+    "450.739eedfb.chunk.css.map": "/Tyumen-is-not-a-village/static/css/450.739eedfb.chunk.css.map",
+    "450.f475273e.chunk.js.map": "/Tyumen-is-not-a-village/static/js/450.f475273e.chunk.js.map",
+    "487.76ebe7d8.chunk.css.map": "/Tyumen-is-not-a-village/static/css/487.76ebe7d8.chunk.css.map",
+    "487.72d16155.chunk.js.map": "/Tyumen-is-not-a-village/static/js/487.72d16155.chunk.js.map",
+    "897.8cef603b.chunk.css.map": "/Tyumen-is-not-a-village/static/css/897.8cef603b.chunk.css.map",
+    "897.54821f89.chunk.js.map": "/Tyumen-is-not-a-village/static/js/897.54821f89.chunk.js.map",
+    "370.34302630.chunk.css.map": "/Tyumen-is-not-a-village/static/css/370.34302630.chunk.css.map",
+    "370.f89cc8ec.chunk.js.map": "/Tyumen-is-not-a-village/static/js/370.f89cc8ec.chunk.js.map",
+    "594.3681de78.chunk.css.map": "/Tyumen-is-not-a-village/static/css/594.3681de78.chunk.css.map",
+    "594.ef343fcd.chunk.js.map": "/Tyumen-is-not-a-village/static/js/594.ef343fcd.chunk.js.map",
+    "749.533ff2dd.chunk.css.map": "/Tyumen-is-not-a-village/static/css/749.533ff2dd.chunk.css.map",
+    "749.51b0d6c9.chunk.js.map": "/Tyumen-is-not-a-village/static/js/749.51b0d6c9.chunk.js.map",
+    "335.7fe9d3d4.chunk.css.map": "/Tyumen-is-not-a-village/static/css/335.7fe9d3d4.chunk.css.map",
+    "335.756142d8.chunk.js.map": "/Tyumen-is-not-a-village/static/js/335.756142d8.chunk.js.map",
+    "634.fe118581.chunk.js.map": "/Tyumen-is-not-a-village/static/js/634.fe118581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e01bc6ab.css",
-    "static/js/main.2282916d.js"
+    "static/css/main.4d37e3be.css",
+    "static/js/main.26906190.js"
   ]
 }
